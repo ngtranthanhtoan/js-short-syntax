@@ -1,4 +1,4 @@
-# Collections of useful syntax in Javascript
+# Collection of useful syntaxes in Javascript
 
 ## Logical validation
 
