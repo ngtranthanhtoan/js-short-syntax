@@ -11,7 +11,7 @@ const value === 'bar' || "This value is not the same."
 
 ## Snippets
 
-### Filter falsy value
+### Filter falsy values
 ```javascript
 const arrayNames = ["Adam", "Eva", null, ''];
 const filterNames = arrayNames.filter(Boolean)
