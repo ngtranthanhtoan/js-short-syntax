@@ -7,7 +7,7 @@
 const value = 'foo';
 const value === 'bar' || "This value is not the same."
 // This value is not the same.
-
+```
 
 ## Snippets
 
