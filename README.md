@@ -7,4 +7,13 @@
 const value = 'foo';
 const value === 'bar' || "This value is not the same."
 // This value is not the same.
+
+
+## Snippets
+
+### Filter falsy value
+```javascript
+const arrayNames = ["Adam", "Eva", null, ''];
+const filterNames = arrayNames.filter(Boolean)
+// ["Adam", "Eva"];
 ```
